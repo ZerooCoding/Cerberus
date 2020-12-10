@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
-const Token = ('NzU5MjE4MjA4NTM1NjA5Mzk1.X26TDg.z3UoFDTRIM3OBO1qodEhzzeRQ2c');
+const Token = (''); // Nothing due to token stealers out there
 let Bot_Name = "Cerberus";
 const prefix = "^^^";
 
